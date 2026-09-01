@@ -34,3 +34,9 @@ AND source_ip IN (
     WHERE status = 'Failed'
     GROUP BY source_ip
 );
+
+-- 6. Establish a timeline for the suspicious IP address
+SELECT timestamp, username, source_ip, status
+FROM login_logs
+WHERE source_ip = '185.220.101.45'
+ORDER BY timestamp ASC;
