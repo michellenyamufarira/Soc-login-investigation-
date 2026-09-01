@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-A self-directed cybersecurity investigation into suspicious authentication activity.
+A self directed cybersecurity investigation into suspicious authentication activity.
 
-This project simulates a Security Operations Center (SOC) investigation where authentication logs are analysed using SQL to identify unusual login behaviour, investigate suspicious IP activity, establish a timeline of events, and determine whether further investigation is required.
+This project simulates a Security Operations Center (SOC) investigation where authentication logs are analysed using SQL to identify unusual login behaviour, investigate suspicious IP activity, establish a timeline of events and determine whether further investigation is required.
 
 ## Objectives
 
