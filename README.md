@@ -67,7 +67,7 @@ The available logs do not, however, prove that the accounts were compromised. Fu
 
 ## Evidence
 
-Screenshots of the investigation results are available in the [`Screenshots`](Analysis/Screenshots/) directory.
+Screenshots of the investigation results are available in the [`Screenshots`](analysis/Screenshots/) directory.
 
 Evidence collected includes:
 
